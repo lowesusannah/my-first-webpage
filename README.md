@@ -1,7 +1,7 @@
-# _{My First Website}_
-## By _**{Emily Wells Jimenez and Susannah Lowe}**_
+# _ {My First Website}_
+## By _** {Emily Wells Jimenez and Susannah Lowe} **_
 ##Description
-_{This is my first website. It has what languages I'll learn and some of my favorite things on it.}_
+_ {This is my first website. It has what languages I'll learn and some of my favorite things on it.}_
 
 ## Setup/Installation Requirements
 
@@ -11,5 +11,5 @@ _{This is my first website. It has what languages I'll learn and some of my favo
 4. Enjoy this beautiful creation
 
 ### Legal
-*{Copyright (c) EWJ and SL}
-*{This software is licensed under the MIT license.}
+* {Copyright (c) EWJ and SL}
+* {This software is licensed under the MIT license.}
