@@ -1,3 +1,16 @@
 h1 {
-  color: blue;
+  color: #00ccb4;
+  font: helvetica; 
+  font-weight: heavy 
+  font-size: 20 px; 
+  line-height: 20 px
 }
+h3 {
+  color: #32CD32
+  font: helvetica
+  font-style: italics 
+  font-size: 12 px
+}
+p { 
+  color: #778899	
+  font-family: sans-serif
